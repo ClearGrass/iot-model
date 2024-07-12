@@ -4,6 +4,9 @@ Thing Specification Language
 # the things industries support
 - [Temp & RH Barometer LoRaWAN](https://github.com/ClearGrass/iot-model/blob/main/ttn/lora/temp_rh.js)
 - [CO2 & Temp & RH Monitor LoRaWAN](https://github.com/ClearGrass/iot-model/blob/main/ttn/lora/temp_rh_co2.js)
+- [Indoor Environment Monitor LoRaWAN](https://github.com/ClearGrass/iot-model/blob/main/ttn/lora/indoor_env.js)
+
+
 - decode data like this
 ```json
 {
